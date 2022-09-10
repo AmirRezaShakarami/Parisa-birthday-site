@@ -17,6 +17,11 @@ h1, h2, h3, h4, p {
 
 #bff-img {
     width: 150px;
+    height: 150px;
+    background-image: url("images/parisa.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 40%;
     border-radius: 50%;
     border: 6px solid #EFB0C9;
     margin-bottom: 10px;
@@ -44,8 +49,6 @@ h1, h2, h3, h4, p {
 
 .gift-section {
     margin-top: 50px;
-    /* background-size: cover;
-    background-position: center; */
 }
 
 .gift-title {
